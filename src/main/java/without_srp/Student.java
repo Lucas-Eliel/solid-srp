@@ -2,6 +2,7 @@ package without_srp;
 
 //This class is executing several commands for one only responsibility.
 // Then, we should refactor this class and separate the responsibilities
+
 public class Student {
 
     public void sendEmail(){}
